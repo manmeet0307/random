@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Press+Start+2P');
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.igdtuw{
+    font-family: 'Oswald', sans-serif;
+    color:#00fffc;
+    align-content: center;
+    position: fixed;
+    padding:  2em 1em 1em 1em;
+}
+
+#myBtn {
+    width: 8.5em;
+    font-size: 16px;
+    padding: 5px;
+    border: none;
+    background: #00a4a2;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 12px;
+    margin: 0.2em;
+}
+
+#myBtn:hover {
+    background: #fff;
+    color:#00a4a2;
+
+}
+
+.arcane {
+    font-family: 'Press Start 2P', cursive;
+    color:#00a4a2;
+    align-content: center;
+    position: fixed;
+    padding:  2em 1em 1em 1em;
+    font-size: 4em;
+    text-shadow: 20px 20px 50px white;
+}
+
+.hunt{
+   font-family: 'Oswald', sans-serif;
+    color:#00fffc;
+    align-content: center;
+    position: fixed;
+     font-size: 0.5em;
+}
